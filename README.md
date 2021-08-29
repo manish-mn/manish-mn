@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish Nair
-- 👀 I’m interested in automation.
-- 🌱 I’m currently learning rest assured using java.
+- 👀 I’m passionate about automation.
+- 🌱 I’m currently working on rest assured using java.
 - 💞️ I’m looking to collaborate on automation framework designing
 - 📫 How to reach me [Linkedln-@manish-mn](https://www.linkedin.com/in/manish-mn/)
 
